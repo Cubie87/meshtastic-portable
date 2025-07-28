@@ -19,7 +19,7 @@ BT Antenna was stuck down using M3 adhesive on the bottom of the lowered area, b
 
 ![img/irl-picture](./img/irl.png)
 
-![img/irl-picture-2](./img/irl.jpeg)
+![img/irl-picture-2](./img/irl.jpg)
 
 ## Printing 
 `.stp` files if you wish to edit
